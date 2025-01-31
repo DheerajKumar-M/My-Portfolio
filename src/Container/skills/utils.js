@@ -65,5 +65,18 @@ export const skillsData=[
                 percentage:"60"
             }
         ]
+    },
+    {
+        label: "Version Control",
+        data: [
+            {
+                skillName: "GitHub",
+                percentage: "80",
+            },
+            {
+                skillName: "JIRA",
+                percentage: "50"
+            }
+        ]
     }
 ]

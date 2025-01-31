@@ -17,12 +17,12 @@ const data=[
         to: '/resume'
     },
     {
-        label: 'PORTFOLIO',
-        to: '/portfolio'
-    },
-    {
         label: 'SKILLS',
         to: '/skills'
+    },
+    {
+        label: 'PORTFOLIO',
+        to: '/portfolio'
     },
     {
         label: 'CONTACT',
