@@ -80,13 +80,6 @@
       display: none;
     }
 
-    // .vertical-timeline-element-date {
-    //   opacity: 1;
-    //   color: var(--yellow-theme-sub-text-color);
-    //   font-size: 18px;
-    //   padding: 0 10px; // Add padding for better spacing
-    // }
-
     .vertical-timeline-element-content .vertical-timeline-element-date {
         font-size: 18px !important; // Override the library's font size
         color: var(--yellow-theme-sub-text-color) !important; // Override the library's color
